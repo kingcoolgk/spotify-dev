@@ -1,7 +1,7 @@
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 const clientId = "c3f5b194fda6419084eaba59f0f0a696";
-const redirectUri = "https://spotify-clone-gaurav.vercel.app/";
+const redirectUri = "https://spotify-dev-blue.vercel.app/";
 const scopes = [
   "user-read-playback-position",
   "user-read-email",
